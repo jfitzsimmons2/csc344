@@ -13,8 +13,8 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.base import MIMEBase
 from email import encoders
  
-gmail_user = "jfitzsim@oswego.edu"
-gmail_pwd = "tool46bo"
+gmail_user = "xxxx"
+gmail_pwd = "xxxx"
 
 def send(email):
 	msg = MIMEMultipart()
